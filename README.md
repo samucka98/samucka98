@@ -1,6 +1,6 @@
 ### Hi all :wave: I'm Samuel Lima
 
-A Software Developer :rocket: having an experience of building Websites with { Javascript, Reactjs, Nodejs, Php, Laravel } and some other cool libraries and frameworks.
+A Software Developer :rocket: having an experience of building Websites with `{ Javascript, Reactjs, Nodejs, Php, Laravel }` and some other cool libraries and frameworks.
 
 <p align="center">
 	<a href="https://github.com/samucka98"><img src="https://img.shields.io/github/followers/samucka98?style=social" alt="GitHub"></a>
