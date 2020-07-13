@@ -1,4 +1,4 @@
-### Hi all :wave: I'm Samuel Lima
+### Hello World :wave: I'm Samuel Lima
 
 A Software Developer :rocket: having an experience of building Websites with `{ Javascript, Reactjs, Nodejs, Php, Laravel }` and some other cool libraries and frameworks.
 
