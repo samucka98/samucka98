@@ -1,6 +1,6 @@
 ### Hi all :wave: I'm Samuel Lima
 
-A Software Developer :rocket: having an experience of building Websites with Javascript / Reactjs / Nodejs / Php / Laravel and some other cool libraries and frameworks.
+A Software Developer :rocket: having an experience of building Websites with { Javascript, Reactjs, Nodejs, Php, Laravel } and some other cool libraries and frameworks.
 
 <!--
 **samucka98/samucka98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
