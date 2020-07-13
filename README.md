@@ -2,6 +2,10 @@
 
 A Software Developer :rocket: having an experience of building Websites with { Javascript, Reactjs, Nodejs, Php, Laravel } and some other cool libraries and frameworks.
 
+<p align="center">
+	<a href="https://github.com/samucka98"><img src="https://img.shields.io//github/followers/samucka98?label=Follow" alt="GitHub"></a>
+</p>
+
 <!--
 **samucka98/samucka98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
